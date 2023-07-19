@@ -1,0 +1,326 @@
+#top {
+    background-color: rgba(127, 41, 41, 0.915);
+    position: fixed;
+    margin-top: -10px;
+    z-index: 2;
+    width: 100%;
+    height: 130px;
+}
+
+#logo {
+    width: 140px;
+    height: 60px;
+    margin-top: 30px;
+    padding-left: 70px;
+}
+
+#heading {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(254, 245, 208);
+    font-weight: bold;
+    padding-left: 34px;
+    padding-top: 2px;
+}
+
+.top {
+    width: 100%;
+    margin-top: -80px;
+    padding-left: 220px;
+
+}
+
+#navbar1 {
+    color: rgb(0, 0, 0);
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+#menu {
+    background-color: rgba(218, 192, 192, 0.792);
+}
+
+#background {
+    background-image: url("../img/dog11.jpg");
+    background-size: 1300px;
+    padding: 28%;
+    margin-top: -85px;
+    background-repeat: no-repeat;
+}
+
+.donate {
+    width: 100px;
+    border-radius: 7px;
+    border-color: rgba(169, 124, 124, 0.924);
+    background-color: rgba(169, 124, 124, 0.924); 
+    height: 30px;
+    margin: 4px;
+}
+
+.donate:hover {
+    background-color: rgba(218, 192, 192, 0.175);
+    border-color: rgba(192, 218, 209, 0);
+}
+
+#link {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#search {
+    font-family: sans-serif;
+    margin-left: 100px;
+    font-size: large;
+    margin-top: 10px;
+    font-weight: bold;
+}
+.class{
+    background-color: rgba(139, 184, 205, 0.941) ;
+    height: 600px;
+    padding-top: 120px;
+}
+#h5{
+text-align: center;
+padding-top: 40px;
+font-size: 40px;
+color: black;
+font-family: sans-serif;
+font-weight: bold;
+}
+#h3{
+    text-align: center;
+    padding-top: 2px;
+    font-size: 22px; 
+    color: black;
+    font-family: sans-serif; 
+    font-weight: bold;
+
+}
+#h2{
+        padding-top: 2px;
+    font-size: 15px; 
+    color: black;
+    margin-left: 30px;
+    font-family: sans-serif; 
+    font-weight: bold; 
+}
+#h1{
+padding-top: 10px;
+font-size: 25px;
+color: black;
+font-family: sans-serif;
+font-weight: bold;
+margin-left: 30px;
+}
+.textme{
+    padding-top: 2px;  
+padding: -30px;
+    font-size: 17px;
+    margin-left: 40px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+#textbutton{
+    margin-left: 540px;
+    padding-top: 2px;  
+    font-family: sans-serif;
+    font-weight: bold;  
+    width: 165px;
+    height: 46px;
+    border-radius: 7px ;
+    background-color:  rgba(222, 180, 140, 0.064);;
+    border-color:  rgba(7, 31, 34, 0.77);
+}
+#textbutton:hover{
+  background-color:     rgba(72, 169, 214, 0.941) ;
+
+}
+.footer{
+   background-color: rgba(108, 138, 152, 0.941) ;
+    height: 850px;
+    width: 100%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+#footerimg{
+    width: 1100px;
+    margin-left:84px;
+    margin-top: 70px;
+    border-radius: 20px;
+    box-shadow: 8px 8px 8px 8px rgba(7, 118, 169, 0.507) ;
+      mix-blend-mode:multiply;
+}
+.foottext{
+    color: rgba(255, 255, 255, 0.719);
+    position: relative;
+    margin-top: -250px;
+    margin-left: 250px;
+    font-weight: bolder;
+    font-style: italic;
+    font-family: sans-serif;
+}
+
+
+#logo2{
+    margin-top: -300px;
+       height: 100px;
+       width: 120px;
+       margin-left: 150px;
+       border-radius: 50px;
+       box-shadow: 7px 7px 7px 7px  rgba(66, 18, 18, 0.915);
+   }
+   .icon{
+       margin-left: 100px;
+       display: flex;
+       height: -50px;
+   }
+   .icons{
+      margin-top: -90px;
+      padding: 10px;
+      width: 50px;
+      height: 50px;
+   }
+   #footer{
+       width: 10000px;
+       
+   
+   }
+   .footers{
+
+    background-color: rgb(127, 41, 41);
+
+    height: 100%;
+       margin-top:-2px;
+       padding-top: 240px;
+       margin-left: -90px;
+   
+       
+   }
+   #downloading{
+       height:27px;
+       width: 27px;
+       margin-left: 15px;
+       margin-top: -15px;
+       border-radius: 65px;
+   }
+   #worldfooter{
+       border-style:groove;
+       border-color: rgb(194, 179, 179);
+    color: white;
+   width:180px;
+   height: 40px;
+   padding-top:10px;
+   border-radius: 10px;
+   margin-top: -215px;
+   margin-left: 320px;
+   
+   }
+   #worldme{
+       font-weight: bold;
+       font-family: sans-serif;
+   margin-top: -30px;
+   margin-left: 60px;
+   }
+   #copyright2023{
+   margin-top: -44px;
+   font-size: 12px;
+   font-weight: bold;
+   margin-left: 200px;
+   white-space:nowrap;
+   }
+   #rights{
+       color: rgb(2,138,224);
+       font-family: Arial, Helvetica, sans-serif;
+   }
+   #legals{
+       color: rgb(2,138,224);
+       margin-top: -44px;
+       font-size: 12px;
+       font-weight: bold;
+       margin-left: 200px;
+       white-space:nowrap;  
+       font-family: Arial, Helvetica, sans-serif;
+   }
+   #legals2{
+       color: rgb(2,138,224);
+       margin-top: -15px;
+       font-size: 12px;
+       font-weight: bold;
+       margin-left: 250px;
+       position: absolute;
+       white-space:nowrap; 
+       font-family: Arial, Helvetica, sans-serif;
+   }
+   #legals3{
+       color: rgb(2,138,224);
+       margin-top: -15px;
+       font-size: 12px;
+       font-weight: bold;
+       margin-left: 370px;
+       position: absolute;
+       white-space:nowrap; 
+       font-family: Arial, Helvetica, sans-serif;
+   }
+   #legals4{
+       color: rgb(2,138,224);
+       margin-top: -15px;
+       font-size: 12px;
+       font-weight: bold;
+       margin-left: 440px;
+       position: absolute;
+       white-space:nowrap; 
+       font-family: Arial, Helvetica, sans-serif;
+   }
+   #legals5{
+       color: rgb(2,138,224);
+       margin-top: -15px;
+       font-size: 12px;
+       font-weight: bold;
+       margin-left: 600px;
+       position: absolute;
+       white-space:nowrap; 
+       font-family: Arial, Helvetica, sans-serif;   
+   }
+   #legals6{
+       color: rgb(2,138,224);
+       margin-top: -15px;
+       font-size: 12px;
+       font-weight: bold;
+       margin-left: 690px;
+       position: absolute;
+       white-space:nowrap; 
+       font-family: Arial, Helvetica, sans-serif;   
+   }
+   #legals7{
+       color: rgb(2,138,224);
+       margin-top: -15px;
+       font-size: 12px;
+       font-weight: bold;
+       margin-left: 750px;
+       position: absolute;
+       white-space:nowrap; 
+       font-family: Arial, Helvetica, sans-serif;   
+   }
+   #legals8{
+       color: rgb(2,138,224);
+   padding-top: 20px;  
+     font-size: 12px;
+       font-weight: bold;
+       margin-left: 200px;
+       white-space:nowrap;  
+       font-family: Arial, Helvetica, sans-serif;
+   }
+   #legals9{
+       color: rgb(2,138,224);
+       margin-top: -15px;
+       font-size: 12px;
+       font-weight: bold;
+       margin-left: 520px;
+       position: absolute;
+       white-space:nowrap; 
+       font-family: Arial, Helvetica, sans-serif; 
+   }
+   
+   
